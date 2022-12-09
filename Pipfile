@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 selenium = "==4.7.2"
-requests = "==2.28.1"
 python-dotenv = "==0.21.0"
 
 [dev-packages]
