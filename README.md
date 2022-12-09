@@ -1,2 +1,2 @@
-# google-classroom-scraper
+# Google Classroom Scraper
 Automatically download all Google Classroom material
